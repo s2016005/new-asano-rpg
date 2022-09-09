@@ -1,0 +1,26 @@
+{
+    "short_name": "浅野学園RPG",
+    "name": "浅野学園RPG",
+    "icons": [
+        {
+            "src": "icon/icon.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "icon/launcher.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icon/splash.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "black",
+    "theme_color": "white",
+    "orientation": "landscape"
+}
